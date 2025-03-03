@@ -9,6 +9,7 @@ StyleGAN-Image-Generation/
 │── src/                   #Folder for code files (uploaded)
 #Download Dataset
 Note: The dataset is not uploaded due to size limitations.
+Download FFHQ (Flickr-Faces-HQ) dataset from Kaggle
 Download the dataset and place it in:datasets/mydataset/
 #Trained Models
 Note: The models (discriminator.h5, generator.h5) are not included.
